@@ -1,4 +1,6 @@
-## SECTION 1 : CA1 Project 
+## https://github.com/francis-han/PSUPR-CA1.git 
+## CA1 Project 
+## SECTION 1 : 
 ## Troubleshooting Chip Failures with Hybrid Classification System
 
 <img src="Miscellaneous/Image.gif" 

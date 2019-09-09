@@ -1,7 +1,7 @@
 ## SECTION 1 : CA1 Project 
 ## Troubleshooting Chip Failures with Hybrid Classification System
 
-<img src="Troubleshooting Chip Failures with Hybrid Classification System.jpg"
+<img src="Image.jpg"
      style="float: left; margin-right: 0px;" />
 
 ---
